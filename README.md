@@ -1,2 +1,2 @@
 # Manipulation-chaines-ADN
-Opération basiques avec chaines d'ADN
+Opérations basiques avec chaines d'ADN
